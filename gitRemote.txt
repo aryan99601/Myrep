@@ -10,9 +10,7 @@ void quicksort(){
 void mergesort (){
     //
 }
-void InsertionSort(){
-    
-}
+dummy changes
 int main(){
 cout<< "Hello World"<< endl 
 cout<< " HEllo Dot Batch" ;
