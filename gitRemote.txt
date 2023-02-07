@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+void bubblesort(){
+    //
+=======
+void quicksort(){
+  //  
+}
+void mergesort (){
+    //
+}
+void InsertionSort(){
+    
+}
+int main(){
+cout<< "Hello World"<< endl 
+cout<< " HEllo Dot Batch" ;
+
+}
