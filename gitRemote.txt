@@ -14,5 +14,8 @@ dummy changes
 int main(){
 cout<< "Hello World"<< endl 
 cout<< " HEllo Dot Batch" ;
+int main(){
+cout<< "Hello World"<< endl 
+cout<< " HEllo Dot Batch" ;
 
 }
